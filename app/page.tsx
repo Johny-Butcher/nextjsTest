@@ -53,7 +53,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Read our docs
+            dsadsadadada
           </a>
         </div>
       </main>
